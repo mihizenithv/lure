@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+
+# portfolio defaults
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.log
+.pytest_cache/
+.DS_Store
+Thumbs.db
